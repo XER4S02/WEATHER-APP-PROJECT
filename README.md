@@ -1,0 +1,2 @@
+# WEATHER-APP-PROJECT
+Bu proje, OpenWeather API kullanılarak geliştirilmiş bir hava durumu uygulamasıdır. Kullanıcılar şehir, ilçe veya ülke ismi girerek anlık hava durumu bilgilerine ulaşabilir. Uygulama HTML, CSS, Bootstrap ve JavaScript ile hazırlanmıştır. Arayüz mobil uyumlu (responsive) olarak tasarlanmıştır ve kullanıcı dostudur. Uygulamada sıcaklık, hava durumu açıklaması ve simgesi gibi bilgiler API üzerinden dinamik olarak alınır ve ekrana yansıtılır. Temel düzeyde hava durumu verisine hızlı şekilde ulaşmak isteyen kullanıcılar için işlevsel bir çözümdür.
